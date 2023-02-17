@@ -10,7 +10,7 @@
                 md: '768px',
                 lg: '976px',)
         - Font-Awesome Brands & Arrow Icons
-    Making This Project Was Really A challenge & It Took Like 48hrs to Complete
+    Making This Project Was Really A challenge & It Took Like 28hrs to Complete
 ## RODE Clone Screenshots
 ![](./Screenshots/RODE%20Clone%2001.png)
 ![](./Screenshots/RODE%20Clone%2002.png)
